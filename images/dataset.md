@@ -9,3 +9,4 @@ Attached below is the google drive link for the images dataset.
 I could not add them all directly to github due to the file size being more than 25mb even after compressing it to a zip file.
 
 Google Drive Link: 
+https://drive.google.com/drive/folders/10k-ae_rLHSE0yDN7hFdtBvHxXpZDyupH?usp=sharing
